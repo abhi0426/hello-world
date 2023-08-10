@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>This is updated by Abhishek Mishra </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>I will be DevOps expert in 3 months <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
