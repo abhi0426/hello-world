@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: abhishek-service
+  name: valaxy-service
   labels:
     app: regapp 
 spec:
