@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Application is deplyoed on Kubernetes Finally !!!  </h1>
+    <h1>Application is deplyoed on Kubernetes Finally !!!!  </h1>
     <p>this is another update for ansible........</p>
     <hr>
      
